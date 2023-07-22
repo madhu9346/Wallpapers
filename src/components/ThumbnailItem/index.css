@@ -1,0 +1,14 @@
+.image-con {
+  height: 70px;
+  width: 70px;
+  border-radius: 10px;
+}
+.btn {
+  border-width: 0px;
+  background-color: transparent;
+  margin-left: 20x;
+  opacity: 0.5;
+}
+.btn-con {
+  opacity: 2;
+}
